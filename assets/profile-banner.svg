@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Chase Developments</title>
+  <desc id="desc">FiveM development and custom interfaces. A charcoal, white, and cyan banner for Chase Developments.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111C23"/><stop offset="1" stop-color="#080D12"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#20E7E0" stop-opacity=".18"/><stop offset="1" stop-color="#20E7E0" stop-opacity="0"/></radialGradient>
+    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#A5FFEE"/><stop offset=".5" stop-color="#32E5E5"/><stop offset="1" stop-color="#08AFC8"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#A7D6DC" stroke-opacity=".045"/></pattern>
+  </defs>
+  <rect width="1200" height="420" rx="18" fill="url(#surface)"/>
+  <rect width="1200" height="420" rx="18" fill="url(#grid)"/>
+  <ellipse cx="960" cy="192" rx="340" ry="300" fill="url(#glow)"/>
+  <path d="M838 0h90L796 420h-90z" fill="#FFFFFF" fill-opacity=".022"/>
+  <path d="M1183 1H18A17 17 0 0 0 1 18v384a17 17 0 0 0 17 17h1164a17 17 0 0 0 17-17V18a17 17 0 0 0-16-17Z" fill="none" stroke="#33454D" stroke-opacity=".7"/>
+  <path d="M44 48h26" stroke="#42E9E0" stroke-width="5"/>
+  <text x="84" y="54" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" letter-spacing="2.8" fill="#BDD0D6">CHASEDEV / DEVELOPMENT STUDIO</text>
+  <text x="42" y="165" font-family="Arial Black,Arial,Helvetica,sans-serif" font-size="104" font-weight="900" letter-spacing="-6" fill="#F4F7F7">CHASE</text>
+  <text x="46" y="237" font-family="Arial Black,Arial,Helvetica,sans-serif" font-size="62" font-weight="900" letter-spacing="-2.6" fill="#F4F7F7">DEVELOPMENTS<tspan fill="#42E9E0">.</tspan></text>
+  <text x="48" y="289" font-family="Arial,Helvetica,sans-serif" font-size="25" fill="#B7C6CE">FiveM development &amp; custom interfaces.</text>
+  <path d="M48 325h1104" stroke="#34474F" stroke-opacity=".8"/>
+  <g font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" letter-spacing="1.5" fill="#CDD8DC">
+    <text x="48" y="373">FIVEM RESOURCES</text>
+    <text x="296" y="373">CUSTOM INTERFACES</text>
+    <text x="579" y="373">SERVER SYSTEMS</text>
+  </g>
+  <g fill="#42E9E0"><path d="m254 367 4-4 4 4-4 4Z"/><path d="m537 367 4-4 4 4-4 4Z"/></g>
+  <text x="1150" y="373" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" fill="#42E9E0">chasedev.dev ↗</text>
+  <g transform="translate(966 169)">
+    <circle r="132" fill="none" stroke="#355158" stroke-opacity=".8"/>
+    <circle r="111" fill="none" stroke="#325258" stroke-dasharray="2 9"/>
+    <path d="M-113-68A132 132 0 0 1 68-113M113 68A132 132 0 0 1-68 113" fill="none" stroke="#42E9E0" stroke-width="2"/>
+    <path d="M-45-72h107l-18 34h-64L-47 11l19 25h55L9 71h-57l-43-56z" fill="url(#cyan)"/>
+    <path d="m61-17 27 34-27 51H25l27-50-27-35Z" fill="#ECF9F6"/>
+    <path d="M-148 0h18M130 0h18M0-148v18M0 130v18" stroke="#79B4BC" stroke-width="1.5"/>
+    <circle cx="132" cy="0" r="4" fill="#42E9E0"/>
+  </g>
+</svg>

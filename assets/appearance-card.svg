@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300" viewBox="0 0 600 300" role="img" aria-labelledby="title desc">
+  <title id="title">Illenium Appearance — Interface redesign</title>
+  <desc id="desc">A Chase Developments interface redesign for illenium-appearance, available as a public preview.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1B2730"/><stop offset="1" stop-color="#0D151D"/></linearGradient>
+    <linearGradient id="cyan"><stop stop-color="#54EFE3"/><stop offset="1" stop-color="#0DAEC5"/></linearGradient>
+  </defs>
+  <rect width="600" height="300" rx="16" fill="url(#surface)"/>
+  <rect x="1" y="1" width="598" height="298" rx="15" fill="none" stroke="#344750"/>
+  <path d="m405 0h62L359 300h-62Z" fill="#FFFFFF" fill-opacity=".018"/>
+  <path d="M30 35h20" stroke="#54EFE3" stroke-width="3"/>
+  <g font-family="Arial,Helvetica,sans-serif">
+    <text x="61" y="40" font-size="12" font-weight="700" letter-spacing="2" fill="#A5C5D0">PUBLIC PREVIEW / 02</text>
+    <text x="29" y="116" font-family="Arial Black,Arial,Helvetica,sans-serif" font-size="48" font-weight="900" letter-spacing="-1.5" fill="#F0F5F6">ILLENIUM</text>
+    <text x="30" y="166" font-family="Arial Black,Arial,Helvetica,sans-serif" font-size="45" font-weight="900" letter-spacing="-1.7" fill="#F0F5F6">APPEARANCE</text>
+    <text x="32" y="206" font-size="20" fill="#AEC2CC">A new look for every character.</text>
+    <text x="32" y="268" font-size="14" font-weight="700" letter-spacing="1.4" fill="#5CE7E3">INTERFACE REDESIGN</text>
+    <text x="555" y="272" text-anchor="end" font-size="26" fill="#5CE7E3">↗</text>
+  </g>
+  <path d="M32 233h536" stroke="#344750"/>
+  <g transform="translate(440 71)">
+    <rect width="119" height="118" rx="5" fill="#0A1119" stroke="#426773"/>
+    <rect x="9" y="10" width="101" height="5" fill="url(#cyan)"/>
+    <rect x="9" y="26" width="48" height="7" fill="#EDF5F7" fill-opacity=".9"/>
+    <rect x="9" y="43" width="29" height="23" fill="#53DFE4" fill-opacity=".25" stroke="#53DFE4"/>
+    <rect x="45" y="43" width="29" height="23" fill="#30414A"/>
+    <rect x="81" y="43" width="29" height="23" fill="#30414A"/>
+    <path d="M10 80h100M10 93h69" stroke="#7194A0" stroke-opacity=".6" stroke-width="4"/>
+    <circle cx="56" cy="80" r="4" fill="#53DFE4"/>
+    <rect x="79" y="101" width="31" height="8" fill="#53DFE4"/>
+  </g>
+</svg>

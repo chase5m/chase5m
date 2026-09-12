@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Argus — FiveM Anti-Cheat</title>
+  <desc id="desc">The latest Chase project. Argus FiveM Anti-Cheat is in public beta. Explore arguss.ac.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#152B31"/><stop offset=".64" stop-color="#0E181F"/><stop offset="1" stop-color="#091218"/></linearGradient>
+    <linearGradient id="shield" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#9EFFE8"/><stop offset="1" stop-color="#21BFCF"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#73DFD8" stroke-opacity=".045"/></pattern>
+  </defs>
+  <rect width="1200" height="320" rx="16" fill="url(#surface)"/>
+  <rect width="1200" height="320" rx="16" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="318" rx="15" fill="none" stroke="#315059"/>
+  <path d="M1 45V16A15 15 0 0 1 16 1h109" fill="none" stroke="#52F0D5" stroke-width="2"/>
+  <path d="m737 0 145 0-96 320H640Z" fill="#65E4D8" fill-opacity=".025"/>
+  <g font-family="Arial,Helvetica,sans-serif">
+    <text x="46" y="47" font-size="14" font-weight="700" letter-spacing="2.7" fill="#72E8DA">LATEST PROJECT / 01</text>
+    <text x="42" y="160" font-family="Arial Black,Arial,Helvetica,sans-serif" font-size="99" font-weight="900" letter-spacing="-5" fill="#F1F8F5">ARGUS<tspan fill="#4AEBD9">.</tspan></text>
+    <text x="48" y="205" font-size="30" fill="#D5E4E6">FiveM Anti-Cheat</text>
+    <text x="48" y="274" font-size="23" font-weight="700" fill="#58EFDA">EXPLORE ARGUSS.AC ↗</text>
+    <rect x="986" y="27" width="173" height="36" rx="18" fill="#50E5CE" fill-opacity=".09" stroke="#50E5CE" stroke-opacity=".5"/>
+    <circle cx="1008" cy="45" r="4" fill="#68F2D7"/>
+    <text x="1022" y="50" font-size="13" font-weight="700" letter-spacing="1.6" fill="#B5FFE9">PUBLIC BETA</text>
+  </g>
+  <g transform="translate(934 163)">
+    <circle r="107" fill="none" stroke="#2B6364" stroke-opacity=".65"/>
+    <circle r="85" fill="none" stroke="#50E5CE" stroke-opacity=".3" stroke-dasharray="3 8"/>
+    <path d="M-68-51 0-81 68-51V4c0 44-36 68-68 88-32-20-68-44-68-88Z" fill="#1C4144" stroke="url(#shield)" stroke-width="2"/>
+    <path d="M0-62 50-22V5L0-35-50 5v-27Z" fill="url(#shield)"/>
+    <path d="M-31 18 0-6 31 18 0 42Z" fill="#E4FFF5"/>
+    <path d="M-25 42 0 61 25 42" fill="none" stroke="#67F4D6" stroke-width="5"/>
+    <path d="M-130 0h14M116 0h14M0-127v12M0 115v12" stroke="#6DBAB3"/>
+  </g>
+  <path d="M1157 282h-39m39 0v-39" fill="none" stroke="#57DCCF" stroke-opacity=".4"/>
+</svg>

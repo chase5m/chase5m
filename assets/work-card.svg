@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300" viewBox="0 0 600 300" role="img" aria-labelledby="title desc">
+  <title id="title">Custom development by Chase Developments</title>
+  <desc id="desc">Resources, interfaces, and server systems. Discover Chase Developments at chasedev.dev.</desc>
+  <defs><linearGradient id="surface" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#16232C"/><stop offset="1" stop-color="#0B141A"/></linearGradient></defs>
+  <rect width="600" height="300" rx="16" fill="url(#surface)"/>
+  <rect x="1" y="1" width="598" height="298" rx="15" fill="none" stroke="#344750"/>
+  <path d="m514 0h61L467 300h-61Z" fill="#5CE7E3" fill-opacity=".025"/>
+  <path d="M30 35h20" stroke="#54EFE3" stroke-width="3"/>
+  <g font-family="Arial,Helvetica,sans-serif">
+    <text x="61" y="40" font-size="12" font-weight="700" letter-spacing="2" fill="#A5C5D0">CHASE DEVELOPMENTS / 03</text>
+    <text x="29" y="116" font-family="Arial Black,Arial,Helvetica,sans-serif" font-size="48" font-weight="900" letter-spacing="-1.5" fill="#F0F5F6">CUSTOM</text>
+    <text x="30" y="166" font-family="Arial Black,Arial,Helvetica,sans-serif" font-size="42" font-weight="900" letter-spacing="-1.8" fill="#F0F5F6">DEVELOPMENT</text>
+    <text x="32" y="206" font-size="18" fill="#AEC2CC">Resources · Interfaces · Server systems</text>
+    <text x="32" y="268" font-size="14" font-weight="700" letter-spacing="1.4" fill="#5CE7E3">CHASEDEV.DEV</text>
+    <text x="555" y="272" text-anchor="end" font-size="26" fill="#5CE7E3">↗</text>
+  </g>
+  <path d="M32 233h536" stroke="#344750"/>
+  <g transform="translate(484 85)">
+    <path d="m-22-23 22-12 51 27v53L0 72l-22-12Z" fill="none" stroke="#3C6775"/>
+    <path d="m0-9 35 18-35 19-35-19Z" fill="#4DE5E0" fill-opacity=".2" stroke="#4DE5E0" stroke-width="1.5"/>
+    <path d="m-35 26 35 19 35-19M-35 43 0 62l35-19" fill="none" stroke="#9DC9D0" stroke-opacity=".7" stroke-width="1.5"/>
+    <path d="M0 28v34" fill="none" stroke="#4DE5E0" stroke-opacity=".4"/>
+    <circle cx="35" cy="9" r="3" fill="#89F8E7"/>
+  </g>
+</svg>
